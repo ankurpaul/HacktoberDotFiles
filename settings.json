@@ -236,8 +236,5 @@
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"npm-intellisense.packageSubfoldersIntellisense": true,
-	"editor.codeActionsOnSave": {
-		"source.organizeImports": true
-	},
 	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }
